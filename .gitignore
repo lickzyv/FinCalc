@@ -1,0 +1,34 @@
+# Gradle and Android Studio
+.gradle/
+**/build/
+local.properties
+.idea/
+*.iml
+*.ipr
+*.iws
+.kotlin/
+.settings/
+.project
+.classpath
+.metadata/
+
+# Signing material and local environment
+*.jks
+*.keystore
+*.pem
+*.p12
+*.pfx
+secrets.properties
+.env
+.env.*
+!*.example
+
+# Generated Android packages are not source files
+*.apk
+*.aab
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.log

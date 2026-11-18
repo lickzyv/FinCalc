@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">FinCalc pixel mark</title>
+  <desc id="desc">A geometric lime F crossed by a rising lavender pixel line, with a small orange accent on an ink background.</desc>
+  <rect width="512" height="512" rx="96" fill="#201D2A"/>
+  <g fill="#C7ED4B">
+    <path d="M112 112h192v40H112zM112 152h40v40h-40zM112 192h40v40h-40zM112 232h152v40H112zM112 272h40v40h-40zM112 312h40v40h-40zM112 352h40v40h-40z"/>
+  </g>
+  <g fill="#B9AEF4"><path d="M192 312h40v40h-40zM232 272h40v40h-40zM272 232h40v40h-40zM312 192h40v40h-40z"/></g>
+  <path fill="#F27B4A" d="M312 112h40v40h-40z"/>
+</svg>
